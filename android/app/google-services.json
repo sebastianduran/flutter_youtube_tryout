@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857057352536",
+    "project_id": "tryoutyoubelikeapp",
+    "storage_bucket": "tryoutyoubelikeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857057352536:android:8d30ad8b8ae5d1cc86632d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_youtube_tryout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857057352536-kv8p5h3bg5n3amu7ilhmfi138e49m586.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpShfNhFXEEaB2DHQuqhBsRh7eVuHyKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857057352536-kv8p5h3bg5n3amu7ilhmfi138e49m586.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
